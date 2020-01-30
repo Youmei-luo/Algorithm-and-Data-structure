@@ -36,7 +36,7 @@ void main()
          47,53,59,61,67,71,73,79,83,89,97};
     int target,rc;
  
-    printf("Input target data�ｼ�");
+    printf("Input target data : ");
     scanf("%d",&target);
  
     printf("\nLinearSearch\n");
