@@ -4,3 +4,4 @@
 * Linear Search 	
 * Sentinel Search
 * Binary search
+* Bubble sort and Comb sort
