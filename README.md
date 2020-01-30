@@ -2,3 +2,4 @@
 ------------------------------
 * Generate random numbers
 * Linear Search 	
+* Sentinel Search
