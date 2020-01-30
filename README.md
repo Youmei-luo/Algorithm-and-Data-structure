@@ -6,3 +6,4 @@
 * Binary search
 * Bubble sort and Comb sort
 * Insertion sort
+* Shell sort
