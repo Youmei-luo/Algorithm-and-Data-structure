@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-int COUNT=0;
+int COUNT=0
  
 int SimpleSearch( char text[ ], char key[ ])
 {
