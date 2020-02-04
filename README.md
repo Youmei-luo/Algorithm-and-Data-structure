@@ -13,3 +13,4 @@
 * BMSearch.c is for Boyer-Moore String Search Algorithm
 * fuct-calculation.c   /   Factorial calculation programming with address display of provisional arguments
 * GCD-calculation.c    /   Programming of greatest common divisor calculation by Euclidean algorithm
+* tower-of-hanoi.c     /   Tower of Hanoi
