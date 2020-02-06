@@ -16,3 +16,5 @@
 * tower-of-hanoi.c     /   Tower of Hanoi
 * Quick sort
 * Merge sort
+* list-structure.c     /   Self organization serch
+  A function that creates a node whose arguments are members. And returns a pointer to that node
