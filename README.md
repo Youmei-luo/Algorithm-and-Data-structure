@@ -15,3 +15,4 @@
 * GCD-calculation.c    /   Programming of greatest common divisor calculation by Euclidean algorithm
 * tower-of-hanoi.c     /   Tower of Hanoi
 * Quick sort
+* Merge sort
