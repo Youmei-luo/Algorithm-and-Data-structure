@@ -24,5 +24,7 @@
 
 * hash.c   /  Data management by hash method  
               Register data in hash table  
-              Find, display and delete specified phone number   Refer to below
+              Find, display and delete specified phone number   Refer to below  
+<img width="225" alt="hash" src="https://user-images.githubusercontent.com/26353958/74080962-bc1b3d00-4a8c-11ea-8390-8c13c687bf0c.PNG">
+
               
