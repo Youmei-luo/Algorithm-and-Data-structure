@@ -18,3 +18,4 @@
 * Merge sort
 * list-structure.c     /   Self organization serch  
   A function that creates a node whose arguments are members. And returns a pointer to that node
+* stack.c  /  Check brackets which are facing each other or not  by using stacks
